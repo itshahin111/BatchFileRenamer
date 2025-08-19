@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Windows shortcuts / system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Executables
+*.exe
+*.dll
+*.so
+
+# VS Code / IDE settings
+.vscode/
+.idea/
