@@ -12,7 +12,6 @@ env/
 
 # Build directories
 build/
-dist/
 *.egg-info/
 *.spec
 
